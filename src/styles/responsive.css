@@ -1,0 +1,19 @@
+@media screen and (max-width: 768px) {
+   
+    .container .panel .square {
+        height: 100px;
+        width: 100px;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .container .menu .titulo {
+        margin-top: 8px;
+        font-size: 18px;
+        text-align: center;
+    }
+    
+    .container .menu .dados {
+        font-size: 18px;
+    }
+}
